@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Samuel Purriños 👋
 
-<!--
-**samuel-purrinos/samuel-purrinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about technology and programming. I love working on innovative projects and learning new skills.
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Web Development (HTML, CSS, JavaScript, Angular, Node.js)
+- 🐍 Backend Development (Spring Boot, Express)
+- 📱 Mobile App Development (Ionic)
+- 🐘 Databases (PostgreSQL, Oracle, MongoDB)
+- 🚀 DevOps (Docker, Jenkins)
+
+## Contact
+
+- 📧 Email: samuel.purrinos@outlook.com
+- 💼 LinkedIn: https://www.linkedin.com/in/samuel-purrinos-romero/
+
+## GitHub Stats
+
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
