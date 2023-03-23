@@ -17,5 +17,5 @@ I'm a developer passionate about technology and programming. I love working on i
 
 ## GitHub Stats
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-purrinos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
